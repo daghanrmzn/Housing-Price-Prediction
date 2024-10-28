@@ -1,7 +1,7 @@
 # Housing-Price-Prediction
 This project is aproduct of study on Hands on Machine Learning with Scikit-Learn and Keras.
 
-It can be understood as a intermediate on Machine Learning concept. 
+It can be understood as a beginner on Machine Learning concept. 
 
 Moreover, it aims to help people who needs to see the practical usage of ML and understand the logic behind it before jumping into Deep Learning since it covers the basic concepts of ML.
 
